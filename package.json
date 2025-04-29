@@ -1,0 +1,17 @@
+{
+  "name": "assignment7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "sashank g",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "assignment7": "file:",
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
